@@ -7,18 +7,22 @@ body{
 h1{
   text-align: center;
 }
+
 .article{
   text-align: center;
   margin: 0 auto;
   width: 80%;
-
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
 
 .article2{
   text-align: center;
   margin: 0 auto;
   width: 80%;
+  margin-top: 50px;
 }
+
 .about{
   text-align: center;
   margin: 0 auto;
@@ -26,6 +30,7 @@ h1{
   font-family: serif;
   line-height: 24px;
 }
+
 .about h2{
   color: lightgreen;
 }
